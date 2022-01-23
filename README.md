@@ -1,2 +1,2 @@
 # juros--JavaScript
- aplicação de juros em JS
+ Aplicação de juros em JS
